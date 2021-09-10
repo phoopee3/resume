@@ -1,65 +1,61 @@
 {
-    "header":{
-        "name":"Jason Lawton",
-        "title":"Developer"
+    "header": {
+        "name": "Jason Lawton",
+        "title": "Developer"
     },
     "contact": {
-        "attributes": {
-        },
-        "data":[
+        "data": [
             {
-                "title":"Email",
-                "content":"jason@jasonlawton.com"
+                "title": "Email",
+                "content": "jason@jasonlawton.com"
             },
             {
-                "title":"Phone",
-                "content":"201-873-0168"
+                "title": "Phone",
+                "content": "201-873-0168"
             },
             {
-                "title":"Website",
-                "content":"https://jasonlawton.com",
-                "link":"https://jasonlawton.com"
+                "title": "Website",
+                "content": "https://jasonlawton.com",
+                "link": "https://jasonlawton.com"
             },
             {
-                "title":"Resume",
-                "hide-on-print":true,
-                "content":"PDF Download",
-                "link":"https://jasonlawton.com/resume/Jason-Lawton-Resume.pdf"
+                "title": "Resume",
+                "hide-on-print": true,
+                "content": "PDF Download",
+                "link": "https://jasonlawton.com/resume/Jason-Lawton-Resume.pdf"
             }
         ]
     },
     "about": {
-        "attributes": {},
-        "content":"Self-motivated team player who utilizes knowledge, skills, and experience that has been acquired over 15 years as a Web Developer to solve problems through exploring different possibilities and determining the best course of action. Also has diverse knowledge and experience designing and developing websites and content management systems for end users."
+        "content": "Self-motivated team player who utilizes knowledge, skills, and experience that has been acquired over 15 years as a Web Developer to solve problems through exploring different possibilities and determining the best course of action. Also has diverse knowledge and experience designing and developing websites and content management systems for end users."
     },
     "profiles": {
-        "attributes": {},
-        "data":[
+        "data": [
             {
-                "title":"Github",
-                "content":"phoopee3",
-                "link":"https://github.com/phoopee3"
+                "title": "Github",
+                "content": "phoopee3",
+                "link": "https://github.com/phoopee3"
             },
             {
-                "title":"StackOverflow",
-                "content":"jason",
-                "link":"http://stackoverflow.com/users/128532/jason"
+                "title": "StackOverflow",
+                "content": "jason",
+                "link": "http://stackoverflow.com/users/128532/jason"
             },
             {
-                "title":"WordPress",
-                "content":"phoopee3",
-                "link":"https://profiles.wordpress.org/phoopee3/"
+                "title": "WordPress",
+                "content": "phoopee3",
+                "link": "https://profiles.wordpress.org/phoopee3/"
             },
             {
-                "title":"LinkedIn",
-                "content":"Jason Lawton",
-                "link":"https://www.linkedin.com/in/jason-lawton"
+                "title": "LinkedIn",
+                "content": "Jason Lawton",
+                "link": "https://www.linkedin.com/in/jason-lawton"
             }
         ]
     },
     "work": {
-        "attributes":{},
-        "data":[
+        "attributes": {},
+        "data": [
             {
                 "title": "Merck/Boss Group",
                 "date-from": "2017-03",
@@ -67,7 +63,7 @@
                 "subtitle": "Senior Back End Developer / WordPress Specialist",
                 "link": "https://merck.com",
                 "link-text": "https://merck.com",
-                "description": "WordPress developer specializing in back end programming. Creating custom themes to hand off to front end developers, and custom plugins to solve client issues.",
+                "description": "WordPress developer specializing in back end programming. Creating custom themes based off of html designs created by front end developers, and creating custom plugins to solve client issues.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
@@ -78,10 +74,13 @@
                             "content": "Introduced and evangelized best practices such as code reuse via plugins, using SCSS instead of CSS, storing documentation as markdown files in git, and video during meetings for remote attendees."
                         },
                         {
-                            "content": "Worked with other team members to create flexible solutions to solve client issues."
+                            "content": "Worked with team members to create flexible solutions to solve client issues."
                         },
                         {
-                            "content": "Developed a WordPress plugin to present PowerPoint files in an intuitive and customizable fashion for department knowledge sharing. A web application separates the powerpoint files into separate slides, and then sends the data to WordPress via custom API endpoints. There is a custom search page that lets the user search the entire presentation, or just the individual slides. When viewing the slide, relevant metadata added by the client appears to help the user understand what the slide is about."
+                            "content": "Developed a WordPress plugin to present PowerPoint files in an intuitiveand customizable fashion for department knowledge sharing. A webapplication splits the powerpoint files into separate slides, and thensends the data to WordPress via custom API endpoints. There is a customsearch page that lets the user search the content of the slides, anddepending on their search options,\nwill return the entire presentationif there is a match in any of the slides, or just the matching slides.When viewing the slide, relevant metadata added by the client is displayed to assist the user understand what the slide is about."
+                        },
+                        {
+                            "content": "Utilize Advanced Custom Fields to create custom blocks. Using ACF allows us to give the client the flexibility to update their site without having to come to us every time, but it allows us to restrain the client and have the content they enter conform to the company guidelines."
                         },
                         {
                             "content": "Developed a WordPress plugin to foster interaction with the website by adding a gamification element. Users would gain points by completing various tasks, posting, replying, filling out their profile, etc. The plugin was flexible in that it allowed the administrator to specify which WordPress hooks to look for, and then add a point value to that event when it was completed. A leaderboard with profile pictures and user bios showed the top users in each company region."
@@ -113,7 +112,10 @@
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "WordPress Plugins - Wrote WordPress plugins that solve problems when suitable solutions could not be found on the WordPress plugin directory. The plugins are available via GitHub. Recent plugins are: Slack Auto Invite, Auto Login, List plugins, and Admin Bar Contact."
+                            "content": "WordPress Plugins - Wrote WordPress plugins that solve problems when suitable solutions could not be found on the WordPress plugin directory. The plugins are available via GitHub. Recent plugins are: Clear Content, Company Cam shortcode, Lottie shortcode, Slack Auto Invite, Auto Login, List plugins, and Admin Bar Contact."
+                        },
+                        {
+                            "content": "DyerInsulations.com - Developed a WordPress site for a client. They needed a custom plugin to display images from their work sites. The client used a website called Company Cam. Company Cam offers an API to retreive images from a site. I wrote a shortcode that queries the API and then displays the images."
                         },
                         {
                             "content": "MJML (MailJet Markup Language) - Learned and implemented MJML for creating two HTML emails on a tight deadline."
@@ -202,139 +204,202 @@
             }
         ]
     },
-    "volunteer":{
-        "attributes":{},
-        "data":[
+    "volunteer": {
+        "attributes": {},
+        "data": [
             {
-                "title":"Northern NJ WordPress Meetup",
-                "date-from":"2017-06",
-                "date-to":"current",
-                "subtitle":"Co-organizer",
-                "link":"https://www.meetup.com/WordPress-Montclair-Meetup/",
-                "link-text":"https://www.meetup.com/WordPress-Montclair-Meetup/",
-                "description":"Cameron Barrett resurrected the WordPress meetup in early 2017, and I quickly joined as a member and then started assisting as a co-organizer along with two other people. Over the past 2 years, we have grown the meetup from 300 members to over 1200 members.",
-                "highlights":{
-                    "title":"Highlights",
-                    "items":[
-                        {"content":"Help desk meetup - we offer help to local WordPress users on a wide variety of WordPress questions."},
-                        {"content":"WordPress professionals meetup - a meetup for professionals who use WordPress in their workplace, and where discussions on trends and problem solving take place."},
-                        {"content":"Talk by an Expert - a local WordPress/Subject Matter Expert presents on a topic."}
-                    ]
-                }
-            },
-            {
-                "title":"WordCamp Montclair 2019",
-                "date-from":"2019-06-01",
-                "date-to":"2019-06-02",
-                "subtitle":"Co-organizer",
-                "link":"https://2019.montclair.wordcamp.org",
-                "link-text":"https://2019.montclair.wordcamp.org",
-                "description":"With the size of our WordPress meetup reaching a certain level, the next step was clear to have a WordCamp for our WordPress community. Along with 5-10 other volunteers, we were able to organize a highly successful first WordCamp in the state of New Jersey.",
+                "title": "Northern NJ WordPress Meetup",
+                "date-from": "2017-06",
+                "date-to": "current",
+                "subtitle": "Co-organizer",
+                "link": "https://www.meetup.com/WordPress-Montclair-Meetup/",
+                "link-text": "https://www.meetup.com/WordPress-Montclair-Meetup/",
+                "description": "Cameron Barrett resurrected the WordPress meetup in early 2017, and I quickly joined as a member and then started assisting as a co-organizer along with two other people. Over the past 2 years, we have grown the meetup from 300 members to over 1200 members.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
-                        {"content": "Assisted in styling the 2019 WordCamp Montclair site."},
-                        {"content": "Worked with another volunteer to send out mailings for announcing the meetup, call for speakers, and selling tickets."},
-                        {"content": "Speaker Wrangler for 20 speakers. Main point of contact, in charge of getting all the speaker information and presentations."},
-                        {"content": "Created the schedule for the conference."}
+                        {
+                            "content": "Help desk meetup - we offer help to local WordPress users on a wide variety of WordPress questions."
+                        },
+                        {
+                            "content": "WordPress professionals meetup - a meetup for professionals who use WordPress in their workplace, and where discussions on trends and problem solving take place."
+                        },
+                        {
+                            "content": "Talk by an Expert - a local WordPress/Subject Matter Expert presents on a topic."
+                        }
                     ]
                 }
             },
             {
-                "title":"Northern NJ WordPress Meetup",
-                "date-from":"2012-01",
-                "date-to":"2012-06",
-                "subtitle":"Organizer",
-                "link":"",
-                "link-text":"",
-                "description":"For 6 months, I took over as the organizer of the Northern NJ WordPress Meetup. It was a defunct organization on meetup.com which wasn't having any meetings. I took over and was able to have monthly meetings over a six month timeframe. I had to step down as the organizer due to my job changing and having a longer commute.",
+                "title": "WordCamp Montclair 2019",
+                "date-from": "2019-06-01",
+                "date-to": "2019-06-02",
+                "subtitle": "Co-organizer",
+                "link": "https://2019.montclair.wordcamp.org",
+                "link-text": "https://2019.montclair.wordcamp.org",
+                "description": "With the size of our WordPress meetup reaching a certain level, the next step was clear to have a WordCamp for our WordPress community. Along with 5-10 other volunteers, we were able to organize a highly successful first WordCamp in the state of New Jersey.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
-                        {"content": "Presented on how to set up WordPress using Bitnami."},
-                        {"content": "Local WordPress developers came and presentationed on what they had built and the methods they used."},
-                        {"content": "Held Q&A/help sessions in the second half of each meeting where people would ask questions about themes and plugins."}
+                        {
+                            "content": "Assisted in styling the 2019 WordCamp Montclair site."
+                        },
+                        {
+                            "content": "Worked with another volunteer to send out mailings for announcing the meetup, call for speakers, and selling tickets."
+                        },
+                        {
+                            "content": "Speaker Wrangler for 20 speakers. Main point of contact, in charge of getting all the speaker information and presentations."
+                        },
+                        {
+                            "content": "Created the schedule for the conference."
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Northern NJ WordPress Meetup",
+                "date-from": "2012-01",
+                "date-to": "2012-06",
+                "subtitle": "Organizer",
+                "link": "",
+                "link-text": "",
+                "description": "For 6 months, I took over as the organizer of the Northern NJ WordPress Meetup. It was a defunct organization on meetup.com which wasn't having any meetings. I took over and was able to have monthly meetings over a six month timeframe. I had to step down as the organizer due to my job changing and having a longer commute.",
+                "highlights": {
+                    "title": "Highlights",
+                    "items": [
+                        {
+                            "content": "Presented on how to set up WordPress using Bitnami."
+                        },
+                        {
+                            "content": "Local WordPress developers came and presentationed on what they had built and the methods they used."
+                        },
+                        {
+                            "content": "Held Q&A/help sessions in the second half of each meeting where people would ask questions about themes and plugins."
+                        }
                     ]
                 }
             }
         ]
     },
-    "education":{
-        "attributes":{},
-        "data":[
+    "education": {
+        "attributes": {},
+        "data": [
             {
-                "title":"NJIT",
-                "date-from":"1996-09",
-                "date-to":"2000-06",
-                "major":"Computer Science",
-                "degree":"Bachelor of Science Degree"
+                "title": "NJIT",
+                "date-from": "1996-09",
+                "date-to": "2000-06",
+                "major": "Computer Science",
+                "degree": "Bachelor of Science Degree"
             }
         ]
     },
-    "publications":{
-        "attributes":{},
-        "data":[
+    "publications": {
+        "attributes": {},
+        "data": [
             {
-                "title":"Ext JS Customer Spotlight – eScholar",
-                "date":"2015-07-08",
-                "published-by":"Sencha",
-                "link":"https://www.sencha.com/blog/ext-js-customer-spotlight-escholar/",
-                "link-text":"https://www.sencha.com/blog/ext-js-customer-spotlight-escholar/",
-                "description":"An article written for Sencha detailing why eScholar choose ExtJS as the foundation to build myTrack."
+                "title": "Ext JS Customer Spotlight – eScholar",
+                "date": "2015-07-08",
+                "published-by": "Sencha",
+                "link": "https://www.sencha.com/blog/ext-js-customer-spotlight-escholar/",
+                "link-text": "https://www.sencha.com/blog/ext-js-customer-spotlight-escholar/",
+                "description": "An article written for Sencha detailing why eScholar choose ExtJS as the foundation to build myTrack."
             }
         ]
     },
-    "skills":{
-        "attributes":{},
-        "data":[
+    "skills": {
+        "attributes": {},
+        "data": [
             {
-                "title":"Front End Development",
-                "items":[
-                    {"content":"HTML"},
-                    {"content":"CSS, SCSS"},
-                    {"content":"Javascript, jQuery, React, Vue"}
+                "title": "Front End Development",
+                "items": [
+                    {
+                        "content": "HTML"
+                    },
+                    {
+                        "content": "CSS, SCSS"
+                    },
+                    {
+                        "content": "Javascript, jQuery, React, Vue"
+                    }
                 ]
             },
             {
-                "title":"Back End Development",
-                "items":[
-                    {"content":"PHP"},
-                    {"content":"mySQL"},
-                    {"content":"WordPress"},
-                    {"content":"Laravel"},
-                    {"content":"Node.js"}
+                "title": "Back End Development",
+                "items": [
+                    {
+                        "content": "PHP"
+                    },
+                    {
+                        "content": "mySQL"
+                    },
+                    {
+                        "content": "WordPress"
+                    },
+                    {
+                        "content": "Laravel"
+                    },
+                    {
+                        "content": "Node.js"
+                    }
                 ]
             },
             {
-                "title":"Misc Development Tools",
-                "items":[
-                    {"content":"Visual Studio Code / Atom / Sublime"},
-                    {"content":"Git (Github, Bitbucket) / Sourcetree / CLI"},
-                    {"content":"Bootstrap"},
-                    {"content":"MJML"},
-                    {"content":"Composer, npm"}
+                "title": "Misc Development Tools",
+                "items": [
+                    {
+                        "content": "Visual Studio Code"
+                    },
+                    {
+                        "content": "Git (Github, Bitbucket) / Sourcetree / CLI"
+                    },
+                    {
+                        "content": "Bootstrap"
+                    },
+                    {
+                        "content": "MJML"
+                    },
+                    {
+                        "content": "Composer, npm"
+                    }
                 ]
             }
         ]
     },
-    "interests":{
-        "attributes":{},
-        "data":[
+    "interests": {
+        "attributes": {},
+        "data": [
             {
-                "title":"Programming",
-                "items":[
-                    {"content":"PHP frameworks such as WordPress, Laravel"},
-                    {"content":"Javascript frameworks such as React, Vue, Angular"},
-                    {"content":"CMS's such as Netlify, Gatsby, Strapi, Stackbit"}
+                "title": "Programming",
+                "items": [
+                    {
+                        "content": "PHP frameworks such as WordPress, Laravel"
+                    },
+                    {
+                        "content": "Javascript frameworks such as Vue"
+                    },
+                    {
+                        "content": "CMS's such as Netlify, Gatsby, Strapi, Stackbit"
+                    },
+                    {
+                        "content": "Static site builders such as 11ty, Gatsby, Gridsome"
+                    }
                 ]
             },
             {
-                "title":"Activities",
-                "items":[
-                    {"content":"Anime"},
-                    {"content":"Bicycling"},
-                    {"content":"Tennis"},
-                    {"content":"Video Games"}
+                "title": "Activities",
+                "items": [
+                    {
+                        "content": "Anime"
+                    },
+                    {
+                        "content": "Bicycling"
+                    },
+                    {
+                        "content": "Tennis"
+                    },
+                    {
+                        "content": "Video Games"
+                    }
                 ]
             }
         ]
