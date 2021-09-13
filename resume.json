@@ -115,6 +115,9 @@
                             "content": "WordPress Plugins - Wrote WordPress plugins that solve problems when suitable solutions could not be found on the WordPress plugin directory. The plugins are available via GitHub. Recent plugins are: Clear Content, Company Cam shortcode, Lottie shortcode, Slack Auto Invite, Auto Login, List plugins, and Admin Bar Contact."
                         },
                         {
+                            "content": "ArtImpressionsLimited.com - Developed a WooCommerce site for a client. The client wanted a standard WooCommerce site, but with one change. Instead of allowing the user to see the price, they wanted to hide the price behind a code that the user would have to call for. A custom plugin was written that would hide the price until the user entered the code. An existing 'Hide WooCommerce price behind login' plugin was used as a base for the custom plugin."
+                        },
+                        {
                             "content": "DyerInsulations.com - Developed a WordPress site for a client. They needed a custom plugin to display images from their work sites. The images were hosted on a 3rd party service called Company Cam. A custom plugin was written that would retreive the images from the Company Cam API. A shortcode is used to indicate where the images should be displayed in the theme."
                         },
                         {
