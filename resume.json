@@ -80,6 +80,9 @@
                             "content": "Developed a WordPress plugin to present PowerPoint files in an intuitiveand customizable fashion for department knowledge sharing. A web application splits the powerpoint files into separate slides, and then sends the data to WordPress via custom API endpoints. There is a custom search page that lets the user search the content of the slides, and depending on their search options, will return the entire presentation if there is a match in any of the slides, or just the matching slides. When viewing the slide, relevant metadata added by the client is displayed to assist the user understand what the slide is about."
                         },
                         {
+                            "content": "Developed a WordPress plugin to track user events. When the user performs some action on the site, such as clicking a link, or downloading a file, we submit a post request to an api endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
+                        },
+                        {
                             "content": "Utilize Advanced Custom Fields to create custom blocks. Using ACF allows us to give the client the flexibility to update their site without having to come to us every time, but it allows us to restrain the client and have the content they enter conform to the company guidelines."
                         },
                         {
@@ -93,9 +96,6 @@
                         },
                         {
                             "content": "Coordinated with IT for risk assessments of externally hosted websites."
-                        },
-                        {
-                            "content": "Deployed WordPress as static sites to AWS."
                         }
                     ]
                 }
