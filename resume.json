@@ -77,7 +77,7 @@
                             "content": "Worked with team members to create flexible solutions to solve client issues."
                         },
                         {
-                            "content": "Developed a WordPress plugin to present PowerPoint files in an intuitiveand customizable fashion for department knowledge sharing. A web application splits the powerpoint files into separate slides, and then sends the data to WordPress via custom API endpoints. There is a custom search page that lets the user search the content of the slides, and depending on their search options, will return the entire presentation if there is a match in any of the slides, or just the matching slides. When viewing the slide, relevant metadata added by the client is displayed to assist the user understand what the slide is about."
+                            "content": "Developed a WordPress plugin to present PowerPoint files in an intuitive and customizable fashion for department knowledge sharing. A web application splits the powerpoint files into separate slides, and then sends the data to WordPress via custom API endpoints. There is a custom search page that lets the user search the content of the slides, and depending on their search options, will return the entire presentation if there is a match in any of the slides, or just the matching slides. When viewing the slide, relevant metadata added by the client is displayed to assist the user understand what the slide is about."
                         },
                         {
                             "content": "Developed a WordPress plugin to track user events. When the user performs some action on the site, such as clicking a link, or downloading a file, we submit a post request to an api endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
@@ -95,7 +95,10 @@
                             "content": "Wrote documentation for clients to use as reference once the project was handed off to them. Documentation was written in markdown and stored in a BitBucket repository so it could be referenced and reused for similar projects. Markdown also provided an easy way to convert to different formats as required by the client."
                         },
                         {
-                            "content": "Coordinated with IT for risk assessments of externally hosted websites."
+                            "content": "Coordinated with IT for risk assessments of websites."
+                        },
+                        {
+                            "content": "Took part in completion of Software Development Lifecycle documentation for projects."
                         }
                     ]
                 }
