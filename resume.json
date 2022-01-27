@@ -80,7 +80,10 @@
                             "content": "As a Back-end Developer, I developed a WordPress plugin to present PowerPoint files in an intuitive and customizable fashion for department knowledge sharing. A web application splits the powerpoint files into separate slides, and then sends the data to WordPress via custom API endpoints. There is a custom search page that lets the user search the content of the slides, and depending on their search options, will return the entire presentation if there is a match in any of the slides, or just the matching slides. When viewing the slide, relevant metadata added by the client is displayed to assist the user understand what the slide is about."
                         },
                         {
-                            "content": "Developed a WordPress plugin to track user events. When the user performs some action on the site, such as clicking a link, or downloading a file, we submit a post request to an api endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
+                            "content": "Developed a WordPress plugin to restrict access to websites. Users could request access to the site and administrators would be notified. Utilized LDAP and custom code for getting user information and automatically creating user accounts."
+                        },
+                        {
+                            "content": "Developed a WordPress plugin to track events. When the user performs some action on the site, such as clicking a link, or downloading a file, we submit a post request to an API endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
                         },
                         {
                             "content": "Utilize Advanced Custom Fields to create custom blocks. Using ACF allows us to give the client the flexibility to update their site without having to come to us every time, but it allows us to restrain the client and have the content they enter conform to the company design guidelines."
@@ -124,22 +127,22 @@
                             "content": "MJML (MailJet Markup Language) - Learned and implemented MJML for creating two HTML emails on a tight deadline."
                         },
                         {
-                            "content": "TwoRiverTheater.org - Developed a WordPress powered site as part of a team. Advanced Custom Fields was used to provide an easy way for the client to update content on the site, specifically the repeater field and flexible content layout."
+                            "_content": "TwoRiverTheater.org - Developed a WordPress powered site as part of a team. Advanced Custom Fields was used to provide an easy way for the client to update content on the site, specifically the repeater field and flexible content layout."
                         },
                         {
                             "content": "MNYPIA.com - Migrated from Wix and redesigned site in WordPress. Utilized Gravity Forms with PayPal integration to enable client to accomplish multiple fundraising efforts."
                         },
                         {
-                            "content": "RodephSholom.org - Refactored page layouts using Advanced Custom Fields. Updated form layouts using Gravity Forms to provide better functionality and usability."
+                            "_content": "RodephSholom.org - Refactored page layouts using Advanced Custom Fields. Updated form layouts using Gravity Forms to provide better functionality and usability."
                         },
                         {
-                            "content": "Nurse Manager - Wrote an AngularJS (v1.5) application to help a pharmacy manage their customers and interactions between customers and staff at hospitals, and the deliverability of medication. The backend API was written using the Laravel PHP framework. The AngularJS front end authenticates against the back end, and then calls API endpoints as necessary to allow the user to interact with the system."
+                            "_content": "Nurse Manager - Wrote an AngularJS (v1.5) application to help a pharmacy manage their customers and interactions between customers and staff at hospitals, and the deliverability of medication. The backend API was written using the Laravel PHP framework. The AngularJS front end authenticates against the back end, and then calls API endpoints as necessary to allow the user to interact with the system."
                         },
                         {
-                            "content": "AriellesGallery.com - Developed a WordPress site coupled with WooCommerce for a jewelry/art retail store to allow them to showcase their products and take orders online."
+                            "_content": "AriellesGallery.com - Developed a WordPress site coupled with WooCommerce for a jewelry/art retail store to allow them to showcase their products and take orders online."
                         },
                         {
-                            "content": "FMDisplayConcepts.com - Developed a WordPress site using the Divi theme to showcase a line of ice cream display cases and their design services for custom builds in the restuarant industry."
+                            "_content": "FMDisplayConcepts.com - Developed a WordPress site using the Divi theme to showcase a line of ice cream display cases and their design services for custom builds in the restuarant industry."
                         }
                     ]
                 }
@@ -217,10 +220,13 @@
                 "subtitle": "Co-organizer",
                 "link": "https://www.meetup.com/WordPress-Montclair-Meetup/",
                 "link-text": "https://www.meetup.com/WordPress-Montclair-Meetup/",
-                "description": "Cameron Barrett resurrected the WordPress meetup in early 2017, and I quickly joined as a member and then started assisting as a co-organizer along with two other people. Over the past 2 years, we have grown the meetup from 300 members to over 1200 members.",
+                "description": "Cameron Barrett resurrected the WordPress meetup in early 2017, and I quickly joined as a member and then started assisting as a co-organizer along with two other people. Over the past few years, we have grown the meetup from 300 members to over 1900 members.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
+                        {
+                            "content": "Due to COVID restrictions we have limited our meetup to once a month held online via Zoom. We have a talk on a topic followed by Questions and Answers."
+                        },
                         {
                             "content": "Help desk meetup - we offer help to local WordPress users on a wide variety of WordPress questions."
                         },
