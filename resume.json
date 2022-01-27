@@ -86,7 +86,7 @@
                             "content": "Developed a WordPress plugin to track events. When the user performs some action on the site, such as clicking a link, or downloading a file, we submit a post request to an API endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
                         },
                         {
-                            "content": "Utilize Advanced Custom Fields to create custom blocks. Using ACF allows us to give the client the flexibility to update their site without having to come to us every time, but it allows us to restrain the client and have the content they enter conform to the company design guidelines."
+                            "content": "Utilized Advanced Custom Fields to create custom blocks. Using ACF allows us to give the client the flexibility to update their site without having to come to us every time, but it allows us to restrain the client and have the content they enter conform to the company design guidelines."
                         },
                         {
                             "_content": "Developed a WordPress plugin to foster interaction with the website by adding a gamification element. Users would gain points by completing various tasks, posting, replying, filling out their profile, etc. The plugin was flexible in that it allowed the administrator to specify which WordPress hooks to look for, and then add a point value to that event when it was completed. A leaderboard with profile pictures and user bios showed the top users in each company region."
