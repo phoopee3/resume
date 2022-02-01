@@ -225,7 +225,7 @@
         "attributes": {},
         "data": [
             {
-                "title": "Northern NJ WordPress Meetup",
+                "title": "Montclair WordPress Meetup",
                 "date-from": "2017-06",
                 "date-to": "current",
                 "subtitle": "Co-organizer",
@@ -275,7 +275,9 @@
                         }
                     ]
                 }
-            },
+            }
+        ],
+        "unused_data": [
             {
                 "title": "Northern NJ WordPress Meetup",
                 "date-from": "2012-01",
