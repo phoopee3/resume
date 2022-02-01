@@ -236,16 +236,10 @@
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "Due to COVID restrictions we have limited our meetup to once a month held online via Zoom. We have a talk on a topic followed by Questions and Answers."
+                            "content": "Due to COVID restrictions we have limited our meetup to once a month held online via Zoom. We have a talk on a topic followed by questions and answers."
                         },
                         {
-                            "content": "Help desk meetup - we offer help to local WordPress users on a wide variety of WordPress questions."
-                        },
-                        {
-                            "content": "WordPress professionals meetup - a meetup for professionals who use WordPress in their workplace, and where discussions on trends and problem solving take place."
-                        },
-                        {
-                            "content": "Talk by an Expert - a local WordPress/Subject Matter Expert presents on a topic."
+                            "content": "When we had in-person meetups, we held weekly meetups consisting of a Help desk meetup, WordPress professionals meetup, and a Talk by an Expert."
                         }
                     ]
                 }
