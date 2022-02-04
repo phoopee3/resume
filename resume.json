@@ -64,7 +64,7 @@
                 "subtitle": "Team Lead / WordPress Specialist",
                 "link": "https://merck.com",
                 "link-text": "https://merck.com",
-                "description": "As a Team Lead, I was involved with projects from discovery to launch. I took part in meetings with clients to determine their needs and propose solutions. I also oversaw creating estimates and took part in IA and design meetings to ensure that the solutions we arrived at were in line with our development strategies and capabilities.<br><br>I also took part in various knowledge sharing sessions where I would demonstrate approaches to creating custom themes using WordPress as well as how we can use ACF Blocks to make more customizable themes for the client. I turned this second topic into a talk for our local WordPress Meetup.",
+                "description": "<p>As a Team Lead, I was involved with projects from discovery to launch. I took part in meetings with clients to determine their needs and propose solutions. I also oversaw creating estimates and took part in IA and design meetings to ensure that the solutions we arrived at were in line with our development strategies and capabilities.</p><p>I also took part in various knowledge sharing sessions where I would demonstrate approaches to creating custom themes using WordPress as well as how we can use ACF Blocks to make more customizable themes for the client. I turned this second topic into a talk for our local WordPress Meetup.</p>",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
@@ -119,7 +119,7 @@
                 "subtitle": "Full Stack Developer",
                 "link": "https://jasonlawton.com",
                 "link-text": "https://jasonlawton.com",
-                "description": "<p>Consult with clients and investigate opportunities to keep skills up to date, explore new technologies, and methods of programming.</p><p>Focus on using WordPress as a content management system to create websites for local businesses. This provides a site that is not only flexible and adaptable to the client's business, but also usable by the client so they do not have to contact me every time they need something updated.</p>",
+                "description": "<p>I consult with clients and investigate opportunities to solve unique and interesting problems that they have. I find freelancing helps keep my skills up to date, and allows me explore new technologies and methods of programming.</p><p>I focus on using WordPress as a content management system to create websites because this provides a site that is not only flexible and adaptable to the client's business needs, but also usable by the client so they do not have to contact me every time they need something updated.</p>",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
@@ -165,7 +165,7 @@
                 "subtitle": "Senior Front End Developer",
                 "link": "https://www.escholar.com",
                 "link-text": "https://www.escholar.com",
-                "description": "Helped take eScholar's myTrack product from prototype to full production.",
+                "description": "I was an integral part in taking eScholar's myTrack product from prototype to full production.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
@@ -197,7 +197,7 @@
                 "subtitle": "Web Developer",
                 "link": "https://rodmanmedia.com",
                 "link-text": "https://rodmanmedia.com",
-                "description": "Built the company's online presence from static HTML web pages to dynamic database-driven websites using PHP, mySQL, javascript, jQuery, and other technologies.",
+                "description": "I built the company's online presence from static HTML web pages to dynamic database-driven websites using a custom CMS using PHP, mySQL, javascript, jQuery, and other technologies.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
@@ -272,6 +272,26 @@
             }
         ],
         "unused_data": [
+            {
+                "title": "WordCamp Montclair 2022",
+                "date-from": "2022-06-25",
+                "date-to": "2022-06-25",
+                "subtitle": "Co-organizer",
+                "link": "https://montclair.wordcamp.org/2022/",
+                "link-text": "https://montclair.wordcamp.org/2022/",
+                "description": "",
+                "highlights": {
+                    "title": "Highlights",
+                    "items": [
+                       {
+                            "content": "Speaker Wrangler."
+                        },
+                        {
+                            "content": "Created the schedule for the conference."
+                        }
+                    ]
+                }
+            },
             {
                 "title": "Northern NJ WordPress Meetup",
                 "date-from": "2012-01",
