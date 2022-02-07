@@ -119,7 +119,7 @@
                 "subtitle": "Full Stack Developer",
                 "link": "https://jasonlawton.com",
                 "link-text": "https://jasonlawton.com",
-                "description": "<p>I consult with clients and investigate opportunities to solve unique and interesting problems that they have. I find freelancing helps keep my skills up to date, and allows me explore new technologies and methods of programming.</p><p>I focus on using WordPress as a content management system to create websites because this provides a site that is not only flexible and adaptable to the client's business needs, but also usable by the client so they do not have to contact me every time they need something updated.</p>",
+                "description": "<p>I consult with clients and investigate opportunities to solve unique and interesting problems that they have. I find freelancing helps keep my skills up to date, and allows me explore new technologies and methods of programming.</p><p>I focus on using WordPress as a content management system to create websites because this provides a site that is not only flexible and adaptable to the client's business needs, but also usable by the client so they do not have to contact me every time they need something updated.</p><p>I also specialize in custom plugins for WordPress to solve business needs for clients when they can't find an appropriate plugin. Two recent examples are a School Cycle plugin that uses a shortcode to display what cycle a school day falls on. The other plugin was to provide a method to define rules for user roles where when a user with a certain role creates a post, it should automatically get tagged with certain taxonomy terms.</p>",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
@@ -130,7 +130,7 @@
                             "content": "ArtImpressionsLimited.com - Developed a WooCommerce site for a client. The client wanted a standard WooCommerce site, but with one change. Instead of allowing the user to see the price, they wanted to hide the price behind a code that the user would have to call for. A custom plugin was written that would hide the price until the user entered the code. An existing 'Hide WooCommerce price behind login' plugin was used as a base for the custom plugin."
                         },
                         {
-                            "content": "DyerInsulations.com - Developed a WordPress site for a client. They needed a custom plugin to display images from their work sites. The images were hosted on a 3rd party service called Company Cam. A custom plugin was written that would retreive the images from the Company Cam API. A shortcode is used to indicate where the images should be displayed in the theme."
+                            "content": "DyerInsulations.com - Developed a WordPress site for a client. They needed a custom plugin to display images from their work sites. The images were hosted on a 3rd party service called Company Cam. A custom plugin was written that would retrieve the images from the Company Cam API. A shortcode is used to indicate where the images should be displayed in the theme."
                         },
                         {
                             "content": "MJML (MailJet Markup Language) - Learned and implemented MJML for creating two HTML emails on a tight deadline."
