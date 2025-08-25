@@ -1,8 +1,8 @@
 {
     "header": {
         "name": "Jason Lawton",
-        "title": "Developer",
-        "version": "2022-01-27-1948"
+        "title": "WordPress Engineer and Full-stack Developer",
+        "version": "2025-08-24-1930"
     },
     "contact": {
         "data": [
@@ -28,7 +28,7 @@
         ]
     },
     "about": {
-        "content": "Self-motivated team player who utilizes knowledge, skills, and experience that has been acquired over 20 years as a Web Developer to solve problems through exploring different possibilities and determining the best course of action. Also has diverse knowledge and experience designing and developing websites and content management systems for end users."
+        "content": "WordPress Engineer and full-stack developer with 25+ years of experience creating scalable, secure, and user-friendly web solutions. For the past 8 years, I have organized a local WordPress Meetup and, for the past 6 years, co-organized WordCamp Montclair, helping foster collaboration, knowledge-sharing, and community growth. My expertise spans custom WordPress themes, plugins, multisite, REST API, and modern front-end workflows, with a strong focus on performance, usability, and accessibility. I'm passionate about using technology and community to empower people and create meaningful digital experiences."
     },
     "profiles": {
         "data": [
@@ -36,11 +36,6 @@
                 "title": "Github",
                 "content": "phoopee3",
                 "link": "https://github.com/phoopee3"
-            },
-            {
-                "title": "StackOverflow",
-                "content": "jason",
-                "link": "http://stackoverflow.com/users/128532/jason"
             },
             {
                 "title": "WordPress",
@@ -64,36 +59,36 @@
                 "subtitle": "Team Lead / WordPress Specialist",
                 "link": "https://merck.com",
                 "link-text": "https://merck.com",
-                "description": "<p>As a Team Lead, I was involved with projects from discovery to launch. I took part in meetings with clients to determine their needs and propose solutions. I also oversaw creating estimates and took part in IA and design meetings to ensure that the solutions we arrived at were in line with our development strategies and capabilities.</p><p>I also took part in various knowledge sharing sessions where I would demonstrate approaches to creating custom themes using WordPress as well as how we can use ACF Blocks to make more customizable themes for the client. I turned this second topic into a talk for our local WordPress Meetup.</p>",
+                "description": "<p>Lead discovery-to-launch projects, collaborating with clients, designers, and developers to deliver scalable, secure, and user-friendly WordPress solutions. Oversee project estimation, information architecture, and technical strategy to align with business and compliance requirements. Actively contribute to knowledge-sharing by presenting on advanced WordPress techniques, including custom theme development and ACF Blocks, at internal sessions and local WordPress Meetups.</p>",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "Delivered projects under tight deadlines. Some projects needed to be finished in time for a conference or company event. This required extensive planning and management in order to be delivered on time."
+                            "content": "Architect and lead long-term migrations of enterprise websites from IIS to AWS, ensuring compliance, security group configuration, documentation, and smooth handover."
                         },
                         {
-                            "content": "Introduced and evangelized best practices such as code reuse via plugins, using CSS variables, using SCSS instead of CSS, and storing documentation as markdown files in git."
+                            "content": "Deliver high-impact projects under tight deadlines, including launches timed for conferences and major events, through careful planning and cross-team coordination."
                         },
                         {
-                            "content": "Worked with Interface Architects, Designers, Front-end developers, and Back-end developers to create flexible solutions to solve client issues."
+                            "content": "Champion best practices such as modular plugin development, SCSS over CSS, use of CSS variables, and documentation in Git for maintainability and team adoption."
                         },
                         {
-                            "content": "Developed a WordPress plugin to present PowerPoint files in an intuitive and customizable fashion for department knowledge sharing."
+                            "content": "Develop custom WordPress plugin to present PowerPoint files in an intuitive and customizable fashion for department knowledge sharing."
                         },
                         {
-                            "content": "Developed a WordPress plugin to restrict access to websites. Users could request access to the site and administrators would be notified. Utilized LDAP and custom code for getting user information and automatically creating user accounts."
+                            "content": "Develop custom WordPress plugin to restrict access to websites. Users can request access to the site and administrators get notified. Utiliz LDAP and custom code for getting user information and automatically creating user accounts."
                         },
                         {
-                            "content": "Developed a WordPress plugin to track events. When the user performs some action on the site, such as clicking a link, or downloading a file, we submit a post request to an API endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
+                            "content": "Develop custom WordPress plugin to track events. When the user performs some action on the site, such as clicking a link, or downloading a file, submit a post request to an API endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
                         },
                         {
-                            "content": "Utilized Advanced Custom Fields to create custom blocks. Using ACF allows us to give the client the flexibility to update their site without having to come to us every time, but it allows us to restrain the client and have the content they enter conform to the company design guidelines."
+                            "content": "Build reusable ACF-powered Gutenberg blocks that balance design consistency with client flexibility, streamlining content updates while enforcing brand guidelines."
                         },
                         {
-                            "content": "Created recorded and written documentation for clients to use as reference once the project was handed off to them."
+                            "content": "Created detailed documentation and training resources for clients, improving post-launch adoption and reducing support overhead."
                         },
                         {
-                            "content": "Due to the enterprise nature of the work, we were required to complete a Software Development Lifecycle report, and would coordinate with IT for risk and vulnerability assessments of websites."
+                            "content": "Coordinate with IT teams on Software Development Lifecycle (SDLC) reports, risk assessments, and vulnerability testing to meet enterprise security requirements."
                         }
                     ],
                     "unused_items": [
@@ -116,44 +111,30 @@
                 "title": "Freelance",
                 "date-from": "2005-04",
                 "date-to": "current",
-                "subtitle": "Full Stack Developer",
+                "subtitle": "Full-stack Developer",
                 "link": "https://jasonlawton.com",
                 "link-text": "https://jasonlawton.com",
-                "description": "<p>I consult with clients and investigate opportunities to solve unique and interesting problems that they have. I find freelancing helps keep my skills up to date, and allows me explore new technologies and methods of programming.</p><p>I focus on using WordPress as a content management system to create websites because this provides a site that is not only flexible and adaptable to the client's business needs, but also usable by the client so they do not have to contact me every time they need something updated.</p><p>I also specialize in custom plugins for WordPress to solve business needs for clients when they can't find an appropriate plugin. Two recent examples are a School Cycle plugin that uses a shortcode to display what cycle a school day falls on. The other plugin was to provide a method to define rules for user roles where when a user with a certain role creates a post, it should automatically get tagged with certain taxonomy terms.</p>",
+                "description": "<p>Consult with clients to design and deliver tailored WordPress solutions that solve unique business challenges. Focus on building flexible, user-friendly websites and custom plugins that empower clients to manage their own content while maintaining scalability, security, and performance. Freelance work provides opportunities to stay current with emerging technologies and apply innovative development methods.</p>",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "WordPress Plugins - Wrote WordPress plugins that solve problems when suitable solutions could not be found on the WordPress plugin directory. The plugins are available via GitHub. Recent plugins are: Role Taxonomy Rules, Clear Content, Company Cam shortcode, Lottie shortcode, Slack Auto Invite, Auto Login, List plugins, and Admin Bar Contact."
+                            "content": "WordPress Plugins - Write WordPress plugins that solve problems when suitable solutions can not be found on the WordPress plugin directory. The plugins are available via GitHub. Recent plugins are: Role Taxonomy Rules, Clear Content, Company Cam shortcode, Lottie shortcode, Slack Auto Invite, Auto Login, List plugins, and Admin Bar Contact."
                         },
                         {
-                            "content": "ArtImpressionsLimited.com - Developed a WooCommerce site for a client. The client wanted a standard WooCommerce site, but with one change. Instead of allowing the user to see the price, they wanted to hide the price behind a code that the user would have to call for. A custom plugin was written that would hide the price until the user entered the code. An existing 'Hide WooCommerce price behind login' plugin was used as a base for the custom plugin."
+                            "content": "Developed WooCommerce customization for ArtImpressionsLimited.com, creating a plugin that hid product pricing until a user entered a custom access code, enhancing business control over sales visibility."
                         },
                         {
-                            "content": "DyerInsulations.com - Developed a WordPress site for a client. They needed a custom plugin to display images from their work sites. The images were hosted on a 3rd party service called Company Cam. A custom plugin was written that would retrieve the images from the Company Cam API. A shortcode is used to indicate where the images should be displayed in the theme."
+                            "content": "Integrated external APIs for DyerInsulations.com by creating a plugin to pull and display worksite images from Company Cam via shortcode, ensuring seamless data flow between third-party services and WordPress."
                         },
                         {
-                            "content": "MJML (MailJet Markup Language) - Learned and implemented MJML for creating two HTML emails on a tight deadline."
+                            "content": "Delivered responsive email campaigns using MJML (MailJet Markup Language) under tight deadlines, ensuring high compatibility and professional presentation."
                         },
                         {
-                            "content": "MNYPIA.com - Migrated from Wix and redesigned site in WordPress. Utilized Gravity Forms with PayPal integration to enable client to accomplish multiple fundraising efforts."
-                        }
-                    ],
-                    "unused_items" : [
-                        {
-                            "_content": "TwoRiverTheater.org - Developed a WordPress powered site as part of a team. Advanced Custom Fields was used to provide an easy way for the client to update content on the site, specifically the repeater field and flexible content layout."
+                            "content": "Redesigned and migrated sites from legacy platforms for MNYPIA.com, improving usability and implementing Gravity Forms with PayPal integration to enable client fundraising and donations."
                         },
                         {
-                            "_content": "RodephSholom.org - Refactored page layouts using Advanced Custom Fields. Updated form layouts using Gravity Forms to provide better functionality and usability."
-                        },
-                        {
-                            "_content": "Nurse Manager - Wrote an AngularJS (v1.5) application to help a pharmacy manage their customers and interactions between customers and staff at hospitals, and the deliverability of medication. The backend API was written using the Laravel PHP framework. The AngularJS front end authenticates against the back end, and then calls API endpoints as necessary to allow the user to interact with the system."
-                        },
-                        {
-                            "_content": "AriellesGallery.com - Developed a WordPress site coupled with WooCommerce for a jewelry/art retail store to allow them to showcase their products and take orders online."
-                        },
-                        {
-                            "_content": "FMDisplayConcepts.com - Developed a WordPress site using the Divi theme to showcase a line of ice cream display cases and their design services for custom builds in the restuarant industry."
+                            "content": "Optimized client workflows and site usability, ensuring non-technical users could manage content without recurring developer intervention."
                         }
                     ]
                 }
@@ -162,30 +143,24 @@
                 "title": "eScholar",
                 "date-from": "2012-09",
                 "date-to": "2017-01",
-                "subtitle": "Senior Front End Developer",
+                "subtitle": "Senior Front-end Developer",
                 "link": "https://www.escholar.com",
                 "link-text": "https://www.escholar.com",
-                "description": "I was an integral part in taking eScholar's myTrack product from prototype to full production.",
+                "description": "Contributed to the development of eScholar’s myTrack product, evolving it from prototype to full production with a focus on scalable front-end architecture and modern frameworks.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "Built prototype mockups in HTML and Javascript."
+                            "content": "Built prototype mockups in HTML and JavaScript to validate product concepts."
                         },
                         {
-                            "content": "Created foundation for myTrack product using ExtJS framework."
+                            "content": "Architected front-end foundation for myTrack using the ExtJS framework, including custom components and a tailored SCSS theme for maintainability and scalability."
                         },
                         {
-                            "content": "Created custom theme for myTrack using SCSS."
+                            "content": "Implemented automated testing with Jasmine, improving product reliability and development efficiency."
                         },
                         {
-                            "content": "Created custom components using ExtJS framework."
-                        },
-                        {
-                            "content": "Implemented unit and application tests using Jasmine."
-                        },
-                        {
-                            "content": "Gave presentation on Bootstrap. Wrote a custom app with a coworker to poll the audience and show results in real-time. Used AngularJS, Express, Node, and Firebase to create application."
+                            "content": "Championed knowledge sharing by presenting on Bootstrap and co-developing a live polling app (AngularJS, Express, Node, Firebase) to engage audiences in real-time presentations."
                         }
                     ]
                 }
@@ -197,24 +172,21 @@
                 "subtitle": "Web Developer",
                 "link": "https://rodmanmedia.com",
                 "link-text": "https://rodmanmedia.com",
-                "description": "I built the company's online presence from static HTML web pages to dynamic database-driven websites using a custom CMS using PHP, mySQL, javascript, jQuery, and other technologies.",
+                "description": "Built and maintained the company's online presence, transitioning from static HTML pages to dynamic, database-driven websites powered by a custom CMS (PHP, MySQL, JavaScript, jQuery).",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "Created custom-built CMS that allowed editors to add content to the websites. All 12 websites utilized a central site for managing content."
+                            "content": "Developed a custom CMS used across 12 websites, enabling centralized content management for editors."
                         },
                         {
-                            "content": "Along with another developer, rebuilt CMS using OOP/MVC PHP methodologies."
+                            "content": "Rebuilt the CMS using OOP/MVC PHP methodologies to improve scalability and maintainability."
                         },
                         {
-                            "content": "Implemented OpenX ad server that served over 650k ad impressions per month."
+                            "content": "Implemented OpenX ad server, managing 650K+ monthly impressions."
                         },
                         {
-                            "content": "Implemented and heavily modified phpList to send thousands of emails every week to various lists."
-                        },
-                        {
-                            "content": "Created an email newsletter builder, which created HTML and text-based emails. Emails were sent to over 150k subscribers every week."
+                            "content": "Engineered high-volume email solutions, customizing phpList and creating a newsletter builder that delivered weekly campaigns to 150K+ subscribers."
                         }
                     ]
                 }
@@ -225,47 +197,56 @@
         "attributes": {},
         "data": [
             {
+                "title": "WordCamp Montclair",
+                "date-from": "2019-06-01",
+                "date-to": "2025-07-28",
+                "subtitle": "Co-organizer",
+                "link": "https://2025.montclair.wordcamp.org",
+                "link-text": "https://2025.montclair.wordcamp.org",
+                "description": "Helped launch and organize New Jersey's first WordCamp, growing from a local WordPress Meetup into a large-scale community conference. Collaborated with 10-20 fellow organizers to plan, coordinate, and deliver a highly successful annual event that supported knowledge-sharing and strengthened the WordPress community.",
+                "highlights": {
+                    "title": "Highlights",
+                    "items": [
+                        {
+                            "content": "Designed and managed speaker selection process, creating a blind voting system and coordinating multiple review rounds to ensure fairness and diversity in the final program."
+                        },
+                        {
+                            "content": "Developed conference schedule and served as Speaker Wrangler, acting as the main point of contact for all presenters and coordinating collection of bios, talks, and presentation materials."
+                        },
+                        {
+                            "content": "Led communications efforts, collaborating with volunteers to draft and send community emails for speaker calls, ticket sales, and event announcements."
+                        },
+                        {
+                            "content": "Contributed technical expertise by assisting in styling and maintaining the WordCamp Montclair website."
+                        }
+                    ]
+                }
+            },
+            {
                 "title": "Montclair WordPress Meetup",
                 "date-from": "2017-06",
                 "date-to": "current",
                 "subtitle": "Co-organizer",
                 "link": "https://www.meetup.com/WordPress-Montclair-Meetup/",
                 "link-text": "https://www.meetup.com/WordPress-Montclair-Meetup/",
-                "description": "Cameron Barrett resurrected the WordPress meetup in early 2017, and I quickly joined as a member and then started assisting as a co-organizer along with two other people. Over the past few years, we have grown the meetup from 300 members to over 1900 members.",
+                "description": "Co-organize and grow the Montclair WordPress Meetup, transforming it from a small local group into a thriving community of 2,200+ members. Facilitate learning, networking, and collaboration among WordPress enthusiasts, developers, and business owners.",
                 "highlights": {
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "Due to COVID restrictions we have limited our meetup to once a month held online via Zoom. We have a talk on a topic followed by questions and answers."
+                            "content": "Grew membership from 300 to 2,200+ by designing engaging events and fostering a welcoming, collaborative environment."
                         },
                         {
-                            "content": "When we had in-person meetups, we held weekly meetups consisting of a Help desk meetup, WordPress professionals meetup, and a Talk by an Expert."
-                        }
-                    ]
-                }
-            },
-            {
-                "title": "WordCamp Montclair 2019",
-                "date-from": "2019-06-01",
-                "date-to": "2019-06-02",
-                "subtitle": "Co-organizer",
-                "link": "https://2019.montclair.wordcamp.org",
-                "link-text": "https://2019.montclair.wordcamp.org",
-                "description": "With the size of our WordPress meetup reaching a certain level, the next step was clear to have a WordCamp for our WordPress community. Along with 5-10 other volunteers, we were able to organize a highly successful first WordCamp in the state of New Jersey.",
-                "highlights": {
-                    "title": "Highlights",
-                    "items": [
-                        {
-                            "content": "Assisted in styling the 2019 WordCamp Montclair site."
+                            "content": "Plan and execute bi-weekly meetups, including expert-led talks, hands-on workshops, and community helpdesks."
                         },
                         {
-                            "content": "Worked with another volunteer to send out mailings for announcing the meetup, call for speakers, and selling tickets."
+                            "content": "Mentor and support local WordPress users, providing guidance on themes, plugins, content management, and development best practices."
                         },
                         {
-                            "content": "Speaker Wrangler for 20 speakers. Main point of contact, in charge of getting all the speaker information and presentations."
+                            "content": "Coordinate logistics and communications, including event scheduling, speaker outreach, and announcements via email and social media."
                         },
                         {
-                            "content": "Created the schedule for the conference."
+                            "content": "Encourage community knowledge-sharing by facilitating discussions, troubleshooting sessions, and skill-building workshops."
                         }
                     ]
                 }
@@ -283,7 +264,7 @@
                 "highlights": {
                     "title": "Highlights",
                     "items": [
-                       {
+                        {
                             "content": "Speaker Wrangler."
                         },
                         {
@@ -346,21 +327,21 @@
         "attributes": {},
         "data": [
             {
-                "title": "Front End Development",
+                "title": "Front-end Development",
                 "items": [
                     {
                         "content": "HTML"
                     },
                     {
-                        "content": "CSS, SCSS"
+                        "content": "CSS"
                     },
                     {
-                        "content": "Javascript, jQuery, Vue, React"
+                        "content": "Javascript, jQuery, Vue"
                     }
                 ]
             },
             {
-                "title": "Back End Development",
+                "title": "Back-end Development",
                 "items": [
                     {
                         "content": "PHP"
@@ -380,7 +361,7 @@
                 ]
             },
             {
-                "title": "Misc Development Tools",
+                "title": "Misc. Development Tools",
                 "items": [
                     {
                         "content": "Visual Studio Code"
@@ -408,16 +389,16 @@
                 "title": "Programming",
                 "items": [
                     {
-                        "content": "PHP frameworks such as WordPress, Laravel"
+                        "content": "PHP frameworks such as WordPress and Laravel"
                     },
                     {
                         "content": "Javascript frameworks such as Vue"
                     },
                     {
-                        "content": "CMS's such as Netlify, Gatsby, Strapi, Stackbit"
+                        "content": "CMS's such as October CMS, Drupal, Kirby"
                     },
                     {
-                        "content": "Static site builders such as 11ty, Gatsby, Gridsome"
+                        "content": "Static site builders such as 11ty"
                     }
                 ]
             },
@@ -425,7 +406,7 @@
                 "title": "Activities",
                 "items": [
                     {
-                        "content": "Anime"
+                        "content": "Reading"
                     },
                     {
                         "content": "Bicycling"
