@@ -53,7 +53,7 @@
         "attributes": {},
         "data": [
             {
-                "title": "Merck/Cella",
+                "title": "Merck/Randstad",
                 "date-from": "2017-03",
                 "date-to": "current",
                 "subtitle": "Team Lead / WordPress Specialist",
@@ -76,16 +76,16 @@
                             "content": "Develop custom WordPress plugin to present PowerPoint files in an intuitive and customizable fashion for department knowledge sharing."
                         },
                         {
-                            "content": "Develop custom WordPress plugin to restrict access to websites. Users can request access to the site and administrators get notified. Utiliz LDAP and custom code for getting user information and automatically creating user accounts."
+                            "content": "Develop custom WordPress plugin to restrict access to websites. Users can request access to the site and administrators get notified. Utilize LDAP and custom code for getting user information and automatically creating user accounts."
                         },
                         {
-                            "content": "Develop custom WordPress plugin to track events. When the user performs some action on the site, such as clicking a link, or downloading a file, submit a post request to an API endpoint to track the event. There is an adminsitrative view where an administrator can view reports based off of this data."
+                            "content": "Develop custom WordPress plugin to track events. When the user performs some action on the site, such as clicking a link, or downloading a file, submit a post request to an API endpoint to track the event. There is an administrative view where an administrator can view reports based off of this data."
                         },
                         {
                             "content": "Build reusable ACF-powered Gutenberg blocks that balance design consistency with client flexibility, streamlining content updates while enforcing brand guidelines."
                         },
                         {
-                            "content": "Created detailed documentation and training resources for clients, improving post-launch adoption and reducing support overhead."
+                            "content": "Create detailed documentation and training resources for clients, improving post-launch adoption and reducing support overhead."
                         },
                         {
                             "content": "Coordinate with IT teams on Software Development Lifecycle (SDLC) reports, risk assessments, and vulnerability testing to meet enterprise security requirements."
@@ -119,7 +119,7 @@
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "WordPress Plugins - Write WordPress plugins that solve problems when suitable solutions can not be found on the WordPress plugin directory. The plugins are available via GitHub. Recent plugins are: Role Taxonomy Rules, Clear Content, Company Cam shortcode, Lottie shortcode, Slack Auto Invite, Auto Login, List plugins, and Admin Bar Contact."
+                            "content": "WordPress Plugins - Wrote WordPress plugins that solved problems when suitable solutions could not be found on the WordPress plugin directory. The plugins are available via GitHub. Recent plugins are: Role Taxonomy Rules, Clear Content, Company Cam shortcode, Lottie shortcode, Slack Auto Invite, Auto Login, List plugins, and Admin Bar Contact."
                         },
                         {
                             "content": "Developed WooCommerce customization for ArtImpressionsLimited.com, creating a plugin that hid product pricing until a user entered a custom access code, enhancing business control over sales visibility."
@@ -208,7 +208,7 @@
                     "title": "Highlights",
                     "items": [
                         {
-                            "content": "Designed and managed speaker selection process, creating a blind voting system and coordinating multiple review rounds to ensure fairness and diversity in the final program."
+                            "content": "Designed and managed speaker selection process, created a blind voting system and coordinated multiple review rounds to ensure fairness and diversity in the final conference program."
                         },
                         {
                             "content": "Developed conference schedule and served as Speaker Wrangler, acting as the main point of contact for all presenters and coordinating collection of bios, talks, and presentation materials."
